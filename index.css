@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.demo {
+    color: aqua;
+    background-color: blue;
+    height: 400px;
+    width: 100%;
+}
+
+.top_header_img{
+    height: 700px;
+    width: 100%;
+}
+
+.navbar{
+    background: rgba(255, 255, 255, 0.89);
+    color: #2E2E2E;
+    font-family: "Amiri";
+}
